@@ -1,0 +1,3 @@
+# Only for vision.py / live.py (YOLO). Run these on Colab or your laptop, not on Streamlit Cloud.
+ultralytics>=8.3
+opencv-python>=4.8
